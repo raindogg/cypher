@@ -28,7 +28,7 @@ Google other tips for refactoring ruby, there is alway room to get better.
 ## Summary
 Cryptography is all about the art of creating and decoding secret messages, called ciphers. Modern computers were born from advancements in cryptography.
 
-In this challenge, you'll work with a pair to refactor some existing cryptography code to make it more readable and follow Ruby best practices. This is a long method. Use your newly-developed skills with classes and driver test code to break this code into a class structure and call the methods within it.
+In this challenge, you'll refactor some existing cryptography code to make it more readable and follow Ruby best practices. This is a long method. Use your newly-developed skills with classes and driver test code to break this code into a class structure and call the methods within it.
 
 ## Release 0: Run the code
 Run the code in [my_solution.rb](my_solution.rb) and see what the expected output is.
